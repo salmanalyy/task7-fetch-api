@@ -1,0 +1,28 @@
+body {
+    font-family: Arial;
+    background: #f4f4f4;
+    padding: 20px;
+}
+
+h2 {
+    text-align: center;
+}
+
+button {
+    display: block;
+    margin: 10px auto;
+    padding: 8px 15px;
+    background: #007bff;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+.user-card {
+    background: white;
+    padding: 15px;
+    margin: 10px auto;
+    width: 400px;
+    border-radius: 8px;
+    box-shadow: 0 0 5px gray;
+}
